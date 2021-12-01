@@ -1,0 +1,4 @@
+---
+cluster.name: "library-cluster"
+network.host: 0.0.0.0
+
